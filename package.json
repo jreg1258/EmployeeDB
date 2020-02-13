@@ -1,0 +1,25 @@
+{
+  "name": "employeedb",
+  "version": "1.0.0",
+  "description": "database to log and view employees",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jreg1258/EmployeeDB.git"
+  },
+  "author": "Fullmetal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jreg1258/EmployeeDB/issues"
+  },
+  "homepage": "https://github.com/jreg1258/EmployeeDB#readme",
+  "dependencies": {
+    "inquirer": "^7.0.4",
+    "jest": "^25.1.0",
+    "mysql": "^2.18.1",
+    "path": "^0.12.7"
+  }
+}
