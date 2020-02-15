@@ -9,4 +9,4 @@ INSERT INTO role(title,salary, dept_id) VALUES ("R&D Scientist.",70000.00, "3");
 INSERT INTO role(title,salary, dept_id) VALUES ("Public Relations Rep.",40000.00, "4");
 INSERT INTO role(title,salary, dept_id) VALUES ("Engineer",60000.00, "5");
 
-INSER
+INSERT INTO employees(first_name,last_name,role_id,manager_id) VALUES ("Joey","Register",3,1),("Maya","Curtis",4,2),("Leon","Bridges",1,2)
